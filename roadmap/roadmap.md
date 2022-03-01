@@ -32,11 +32,11 @@ Other than Ethereum, other smart contract blockchains with NFT tools are TRON, E
  
  3. Set up your digital wallet
  
- [Duino-Coin)(https://wallet.duinocoin.com/)
+ [Duino-Coin](https://wallet.duinocoin.com/)
  
  4. Select your NFT marketplace
  
- (https://exchange.duinocoin.com/) but I'm afraid, that here we have TODO.
+ [exchange.duinocoin.com/](https://exchange.duinocoin.com/) but I'm afraid, that here we have TODO.
  
  5. Upload your file
  
