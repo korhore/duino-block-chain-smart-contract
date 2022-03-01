@@ -6,8 +6,8 @@ Also with components have just same NFT history data available of sellers and bu
  
 ## Steps
 ### Smart Agreement
-#### Study Agreements
+### Study Agreements.
 #### Study GPL
  Study GPL as a purpose to define Smart Agreement same kind as GPL so, that agreement maker promises publish all components  he /her has used as a list with NFT-information needed for each.
 ### Study NFT
- In Internet there can be found guides, how NFT can be made for at lesat digital thing with Etheriums. Make a study how to do it with Duino-Coin 
+ In Internet there can be found guides, how NFT can be made for at lesat digital thing with Etheriums. Make a study how to do it with Duino-Coin. 
