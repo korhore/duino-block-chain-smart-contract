@@ -24,7 +24,7 @@ Other than Ethereum, other smart contract blockchains with NFT tools are TRON, E
  
  1. Pick your item
  Item will be
- - agreement with category
+ - agreement with a category
  - id of the real thing
  2. Choose your blockchain
  
@@ -40,7 +40,7 @@ Other than Ethereum, other smart contract blockchains with NFT tools are TRON, E
  
  5. Upload your file
  
-     NFT is for a real thing, so this phase as done in 1. or 1. is this 5.
+     NFT is for the real thing, so this phase as done in 1. or 1. is this 5.
  
  6. Set up the sales process
  
