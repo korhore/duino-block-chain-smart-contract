@@ -28,7 +28,7 @@ Other than Ethereum, other smart contract blockchains with NFT tools are TRON, E
  - id of the real thing
  2. Choose your blockchain
  
- Duino-Coin
+     Duino-Coin
  
  3. Set up your digital wallet
  
