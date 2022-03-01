@@ -14,7 +14,7 @@ You will use the [ERC-721 standard](https://ethereum.org/en/developers/docs/stan
 - ID of the Token
 
 [The ERC 1155 standard](https://ethereum.org/fi/developers/docs/standards/tokens/erc-1155/) is a multi-token standard that allows each token id to represent its own configurable token type with its own metadata attributes and supply.
-
+wallet
 Other than Ethereum, other smart contract blockchains with NFT tools are TRON, EOS, TEZOS, and Solarium. Duino-Coin? This standardization of NFTs will help in ensuring the interoperability of the tokens. 
 
 #### Study GPL
@@ -32,7 +32,7 @@ Other than Ethereum, other smart contract blockchains with NFT tools are TRON, E
  
  3. Set up your digital wallet
  
-     [Duino-Coin](https://wallet.duinocoin.com/)
+     [Duino-Coin wallet](https://wallet.duinocoin.com/)
  
  4. Select your NFT marketplace
  
