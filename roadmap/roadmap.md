@@ -10,8 +10,8 @@ Also with components have just same NFT history data available of sellers and bu
 [How to Deploy NFT Smart Contracts](https://betterprogramming.pub/how-to-deploy-nft-smart-contracts-9271ce5e91c0)
 
 You will use the [ERC-721 standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/). This is an NFT standard that provides functionalities for smart contracts. When a token is transferred you need 2 pieces of information:
--Address of Smart Contract
--ID of the Token
+- Address of Smart Contract
+- ID of the Token
 
 [The ERC 1155 standard](https://ethereum.org/fi/developers/docs/standards/tokens/erc-1155/) is a multi-token standard that allows each token id to represent its own configurable token type with its own metadata attributes and supply.
 
