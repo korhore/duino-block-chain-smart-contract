@@ -11,6 +11,36 @@ Also with components have just same smart contract history data available of sel
 Read-only logging is basic feature of a block-chain, but is Duino a block-chain? If yes, how we con log with Duino? If not, is it possible to wrap Duino-Coin to some block-chain?
 
 Suggstion by bobyblobfish#1566: "... make a duino nft on polygon blockchain, and make an official section on the duinocoin website that lets you buy the nfts with duco, but actually it buys it with polygon by exchanging the duino to polygon through the website. Now we have duino nfts that  are decentralized, and also doesn’t force anyone to directly use anything besides duino to buy it." In this use case we should put "smart contract" on a polygon blockchain to keep consepts clear, because it seems that nft is always asociated to some digital thing, but here we have smart contract, which is digital itself, but it is associated to a flysical thing like a component of a product. Technical link to [Setting up Metamask for Polygon (Matic Network)](https://medium.com/stakingbits/setting-up-metamask-for-polygon-matic-network-838058f6d844)
+Your need wallet and Secret Recovery Phrase. Don't yet know if Duino-Coin Web wallet can be used. In this study I created a new wallet and Secret Recovery Phrase. After creating wallet with a phase, it if I try to add network
+- Network Name
+- New RPC URL
+- Chain ID
+- Currency Symbol(Optional)
+- Block Explorer URL(Optional)
+
+For Etherium these are
+- Network Name 			Ethereum Mainnet
+- New RPC URL  			***
+- Chain ID				1
+- Currency Symbol(Optional)		ETH
+- Block Explorer URL(Optional)	https://etherscan.io
+
+For tests can be used for instance
+- Localhost 8545
+- Ropsten Test Network
+
+To continue study, maybe Ropsten Test Network is best.
+
+- Network Name				Ropsten Test Network
+- New RPC URL				***
+- Chain ID				3	
+- Currency Symbol(Optional) 		ETH
+- Block Explorer URL(Optional)	https://ropsten.etherscan.io
+
+Hmm.. this is already included, because I can't add it
+
+Currency can be for istance bitcoin, dollar, but no DUCO.
+
 
 ### Smart Contract
 #### Study Smart Contracts
