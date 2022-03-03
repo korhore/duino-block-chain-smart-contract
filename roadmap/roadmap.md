@@ -9,6 +9,9 @@ Also with components have just same smart contract history data available of sel
 #### Study Block_Chains
 #### Study Duino as Block_Chain
 Read-only logging is basic feature of a block-chain, but is Duino a block-chain? If yes, how we con log with Duino? If not, is it possible to wrap Duino-Coin to some block-chain?
+
+Suggstion by bobyblobfish#1566: "... make a duino nft on polygon blockchain, and make an official section on the duinocoin website that lets you buy the nfts with duco, but actually it buys it with polygon by exchanging the duino to polygon through the website. Now we have duino nfts that  are decentralized, and also doesn’t force anyone to directly use anything besides duino to buy it." In this use case we should put "smart contract" on a polygon blockchain to keep consepts clear, because it seems that nft is always asociated to some digirtal thing, but here we have smart contract, which is digital itself, but it is associated to a flysical thing like a component of a product.
+
 ### Smart Contract
 #### Study Smart Contracts
 How to deploy smart contract? Youcan use ethereum as example, but ethereus is not cheap main think to study is we can lof with Duino, how we deploy smart contyracts with Duino?
