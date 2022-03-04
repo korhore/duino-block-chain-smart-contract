@@ -6,6 +6,11 @@ Also with components have just same smart contract history data available of sel
  
 ## Steps
 ### Block-Chain
+### Categosized Smart Contracts
+Basic idea is based on Categirised Contracts
+#### Category
+Category for a componen can be based on conditions with a component has build, traded or owned. One example is Russia ban. This category may be defined for instance so, that componen has not beem nade is Russia, not a company that is owned by any people that are citizens by Russia directly or indirectly, phopin use of bullvans. Example of conditions contract may be, that conditions of the workers fullfill some category difined for instance [ILO C029 - Forced Labour Convention, 1930 (No. 29)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C029). Very popular cateryry is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
+### Block-Chain
 #### Study Block_Chains
 #### Study Duino as Block_Chain
 Read-only logging is basic feature of a block-chain, but is Duino a block-chain? If yes, how we con log with Duino? If not, is it possible to wrap Duino-Coin to some block-chain?
