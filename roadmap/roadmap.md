@@ -1,8 +1,10 @@
 # Roadmap for Open Trade with Categosized Smart Contracts
 ## Inspiration
-Inspiration to innovate [Duino-Coin](https://github.com/revoxhere/duino-coin) -based [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) for real physical products comes of current ongoing Russian war against Ukraina, because innocent people are dying there just now and this can be one way to say to Putin, that he is doing wrong things and we don't accept it and that we want to help Ukraina people. But even if Ukraina-case is very very important for us, if we want keep as human people, one very bad thing can also lead good things. Nothing like this has not even been possible before. If we can make full-version of categorised smart contracts, it is possible to check history of a single product of what components it consists and do they fullfill same category contract, than main product clains to fullfill.
+Inspiration to innovate [smart contracts](https://en.wikipedia.org/wiki/Smart_contract) for real physical products comes of current ongoing Russian war against Ukraina, because innocent people are dying there just now and this can be one way to say to Putin, that he is doing wrong things and we don't accept it and that we want to help Ukraina people. But even if Ukraina-case is very very important for us, if we want keep as human people, one very bad thing can also lead good things.
 
-Also with components have just same smart contract history data available of sellers and buyers if they fullfill category rules or not, so real controll to real data of how products are made can be available as component level. Even if component is dismanted from one old product and sold to someone, who installs that component to his/her product, new one or old one, also that components history can be found, when component is sold with it's NFT. So business possibities for this kind NFT-usage seems to be very promising if you are going to save the world or even if your are not going to do it.
+Nothing like Open Trade with Categosized Smart Contracts has not even been possible before. If we can make full-version of categorised smart contracts, it is possible to check history of a single product of what components it consists and do they fullfill same category contract, than main product clains to fullfill.
+
+Also with components have available just the same smart contract history data of sellers and buyers if they fullfill category rules or not, so real controll to real data of how products are made can be available as component level. Even if component is dismanted from one old product and sold to someone, who installs that component to his/her product, new one or old one, also that components history can be found, when component is sold with it's smart contract. So business possibities for this kind smart contract -usage seems to be very promising if you are going to save the world or even if your are not going to do it.
  
 ## Steps
 ### Categosized Smart Contracts
@@ -12,12 +14,15 @@ Category for a component can be based on conditions with a component has build, 
 
 Example of conditions contract may be, that conditions of the workers fullfill some category difined for instance [ILO C029 - Forced Labour Convention, 1930 (No. 29)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C029).
 
-Very popular cateryry is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
+Very popular category is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
 
 One category will be of how deep level information of smart contracts of products producing phases and components customer can get, is it only producers announcement or does it go higher to the deepest level, where same contracts information can be got also for all services and subcomponents that are used in the product. If implementaion is made so, that customers can confirm or deny reltionship of product and category we can implement reliability.
 
+#### Categorized Contract
+Categorized Contract is concrete contract under it's category. Examples of Categorized Contract can be above examples, they are examples of both 'Category' and  'Categorized Contracts'.
+
 ### Contract Makers
-Basically contract is one-sided. They are promises to follow those category contracts rules. Producer companies make those promiseses of their products, components or services. Product consists on many components and services of many companies. Chain goes from component makers to product maker to shops, where customer can buy those products.
+Basically contract is one-sided. Those are promises to follow those category contracts rules. Producer companies make those promiseses of their products, components or services. Product consists on many components and services of many companies. Chain goes from component makers to product maker to shops, where customer can buy those products.
 
 In this transfer chain component is always holded by one actor. We can identify two type component holder change dependent of that, is component buyed to not, is ownership changed or not. Those actors have made categorized contracts how they behave with that component. We can identify assignment between component, actor and contract.
 
@@ -27,19 +32,19 @@ On selling phase customer can choose a produuct by a categorized contract and if
 
 ### What this projects will sell?
 
-This projects product will be product sticker that includes a QR-code, which has identification information of a prodeucts. From that customer can check if a product fullfilss smart contracts he/she wants. Look car componts, cellular phone boxes etc. All products have stickers, where are many kind id-information. This Categorized Contracts sticker is one more. With that sticker product makers can get get goodwill for their products, because they act responsible.
+This project's product will be product sticker that includes a QR-code, which has http-link to this single products Smart contrats infiormation. From that customer can check if a product fullfilss smart contracts he/she wants. Look car componts, cellular phone boxes etc. All products have stickers, where are many kind of id-information. This Categorized Contracts sticker is one more. With that sticker product makers can get get goodwill for their products, because they act responsible.
 
 ### Open Trade
 Because anyone can check the product or product batch that contains the QR code, trading will become open. We cannot assume that this idea will ever be used in all commerce, but it is possible that it will eventually become mainstream.
 
 ### Book Keeping
 #### Items identified
-We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and those roles we can build company, department of a company, product stat consists of componets, component, customer, group of customer, group of customer groups etc. Categorys are are Items descripted below with a role 'Smart Contract' as highest level without owner. 'Smart Contract's are lowest level of this chain, concrete contracts.
+We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and with those roles we can build company, department of a company, product shat consists of components, component, customer, group of customer, group of customer groups etc. Categorys are are Items descripted below with a role 'Smart Contract' as highest level without owner. 'Smart Contract's are lowest level of this chain, concrete contracts.
 ##### Smart Contract
 This is Item descripted below with a role 'Smart Contract'
  
 ###### Item
-Itemt is iterative with roles, so item can be basic component that is a part of a product; component, that is not a part of a product yet; a product that contais components; company or department of company, customer or group of customers.
+Itemt is iterative with roles, so item can be basic component that is a part of a product; component, that is not a part of a product yet; a product that contais components; company or department of company, customer or group of customers; category or smart contract under a category.
 * id
 * name
 * description
@@ -72,13 +77,13 @@ Itemt is iterative with roles, so item can be basic component that is a part of 
 
 ### Implementation
 #### Demo
-Maybe demo with python3 is the asiest way
+Maybe demo with python3 is the easiest way.
 #### Final Implementaion
-This should work with smart phones. Maybe jave implementation for clients is needed. Propable we need server side.
+This should work with smart phones. Maybe java-implementation for clients is needed. Probable we need server side.
 
 
 ### Book keeping
-There are many possibilities. We can even use pure files almost for a demo, datata base aor block chain. Maybe this is roadmap. Below is some study points for Duino, because it is chep coin, but maybe studu for it should be with a very low priority.
+There are many possibilities. We can even use pure files almost for a demo, datata base aor block chain. Maybe this is list a roadmap. Below is some study points for Duino, because it is chep coin, but maybe study for it should be with a very low priority.
 
 #### Block-Chain
 ##### Study Block_Chains
@@ -126,5 +131,4 @@ How to deploy smart contract? You can use ethereum as example, but ethereum is n
 
 ### GPL
 #### Study GPL
-Study GPL as a purpose to define Smart Contract same kind as GPL so, that contract maker promises publish all components  he/her has used as a list with Smart Contract -information needed for each. Note that product itself will bot be under GPL, but we only study GPL what way, that in programs business if we use GPL at code level, whic means that we can freely use GPL in our code, nut after doing so, we must also publish all code we have written to make application under GPL. Logic with items fullfilling smarft agreement will be that kind, that if one subitem will not fullfill a smart contract, then main product will not fullfill also, even if some other subitems will fullfill the smart contract.
-
+Study GPL as a purpose to define Smart Contract same kind as GPL so, that contract maker promises publish all components  he/her has used as a list with Smart Contract -information needed for each. Note that product itself will not be under GPL, but we only study GPL what way like in programs business if we use GPL at code level, which means that we can freely use GPL licenced code in our own code, but after doing so, we must also publish all code we have written to make application under GPL. Logic with items fullfilling smarft agreement will be that kind, that if one subitem will not fullfill a smart contract, then main product will not fullfill also, even if some other subitems will fullfill the smart contract.
