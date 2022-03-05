@@ -125,5 +125,5 @@ How to deploy smart contract? Youcan use ethereum as example, but ethereus is no
 
 ### GPL
 #### Study GPL
- Study GPL as a purpose to define Smart Contract same kind as GPL so, that contract maker promises publish all components  he/her has used as a list with Smart Contract -information needed for each.
+ Study GPL as a purpose to define Smart Contract same kind as GPL so, that contract maker promises publish all components  he/her has used as a list with Smart Contract -information needed for each. Note that product itself will bot be under GPL, but we only study GPL what way, that in programs business if we use GPL at code level, whic means that we can freely use GPL in our code, nut after doing so, we must also publish all code we have written to make application under GPL. Logic with items fullfilling smarft agreement will be that kind, that if one subitem will not fullfill a smart contract, then main product will not fullfill also, even if some other subitems will fullfill the smart contract.
 
