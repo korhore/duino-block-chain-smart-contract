@@ -10,16 +10,19 @@ Also with components have just same smart contract history data available of sel
 Basic idea is based on Categirised Contracts
 #### Category
 Category for a componen can be based on conditions with a component has build, traded or owned. One example is Russia ban. This category may be defined for instance so, that componen has not beem nade is Russia, not a company that is owned by any people that are citizens by Russia directly or indirectly, phopin use of bullvans. Example of conditions contract may be, that conditions of the workers fullfill some category difined for instance [ILO C029 - Forced Labour Convention, 1930 (No. 29)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C029). Very popular cateryry is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
-### Contract Makers
-Basically Contract is one-sided. They are promisesto fo follow those caterory conttracts rules. Producer companies make those promiseses of their products, components or services. Product consist on many components and services of many companies. Chain goes from component makers to product maker to shops, where customer can buy those products.
 
-In this tranfer chain component is always holded by one acror. We can identify two typoe component holder change dependent of that, is component buyed to not is ownership changed or not. Those actors have made categorised contracts how they behave with that component. Wecan ientify asigment between component, actor and contract.
+One caterogory will be of hor deep level information of smart contracts of products producing phases and components customer can get, is it only producers annouincement or does it go higher to the deepest level, where same contracts information can be got also for all services and subcomponents that are used in the product.
+
+### Contract Makers
+Basically Contract is one-sided. They are promises to follow those category conttracts rules. Producer companies make those promiseses of their products, components or services. Product consist on many components and services of many companies. Chain goes from component makers to product maker to shops, where customer can buy those products.
+
+In this transfer chain component is always holded by one acror. We can identify two type component holder change dependent of that, is component buyed to not, is ownership changed or not. Those actors have made categorised contracts how they behave with that component. We can iedntify assignment between component, actor and contract.
 
 If we look situation in the shop, customer can find out a product that consista of components and services. Even the shop selling assings a service to a product what it is selling and have nade promises how it works. Customer can find out products all components and services and get information od all vategorized contract made ot not made.
 
 On selling phase customer can choose a produuct by a categorized contract and if product does not fullfil this contracts by some component or service, customer can see what is wrong with that product or simply get a list o other products that fullfill the contract wanted. We can find out that with this logic we have made a system, where customer can choose his/her values and put his/her money to talk how this world should act.
 
-What thid projects will sell.
+### What this projects will sell?
 
 This projects product will be product sticker that includes a QR-code, which has identification information of a prodeucts. From that customer can check if a product fullfilss smart contracts he/she wants. Lokk car componts, cellular phone boxes aetc. All products have stickers, where are many kind is-information. This Categorized Contracts sticker is one more. With that sticker product makers can get get godwill for their products,  products, because they act responsible.
 
