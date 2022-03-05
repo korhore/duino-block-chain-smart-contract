@@ -8,40 +8,42 @@ Also with components have just same smart contract history data available of sel
 ### Categosized Smart Contracts
 Basic idea is based on Categirized Contracts
 #### Category
-Category for a component can be based on conditions with a component has build, traded or owned. One example is Russia ban [Russia sanctions list: What the west imposed over the Ukraine invasion](https://www.ft.com/content/6f3ce193-ab7d-4449-ac1b-751d49b1aaf8) . This category may be defined for instance so, that component has not been made is Russia, not a company that is owned by any people that are citizens by Russia directly or indirectly, phopin use of bullvans. Example of conditions contract may be, that conditions of the workers fullfill some category difined for instance [ILO C029 - Forced Labour Convention, 1930 (No. 29)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C029). Very popular cateryry is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
+Category for a component can be based on conditions with a component has build, traded or owned. One example is Russia ban [Russia sanctions list: What the west imposed over the Ukraine invasion](https://www.ft.com/content/6f3ce193-ab7d-4449-ac1b-751d49b1aaf8) . This category may be defined for instance so, that component has not been made is Russia, not a company that is owned by any people that are citizens of Russia directly or indirectly, preventing use of bullvans.
 
-One caterogory will be of how deep level information of smart contracts of products producing phases and components customer can get, is it only producers announcement or does it go higher to the deepest level, where same contracts information can be got also for all services and subcomponents that are used in the product. If implementaion is made so, that customers can confirm or deny reltionship of product and category we can implement reliability.
+Example of conditions contract may be, that conditions of the workers fullfill some category difined for instance [ILO C029 - Forced Labour Convention, 1930 (No. 29)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C029).
+
+Very popular cateryry is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
+
+One category will be of how deep level information of smart contracts of products producing phases and components customer can get, is it only producers announcement or does it go higher to the deepest level, where same contracts information can be got also for all services and subcomponents that are used in the product. If implementaion is made so, that customers can confirm or deny reltionship of product and category we can implement reliability.
 
 ### Contract Makers
-Basically Contract is one-sided. They are promises to follow those category conttracts rules. Producer companies make those promiseses of their products, components or services. Product consist on many components and services of many companies. Chain goes from component makers to product maker to shops, where customer can buy those products.
+Basically contract is one-sided. They are promises to follow those category contracts rules. Producer companies make those promiseses of their products, components or services. Product consists on many components and services of many companies. Chain goes from component makers to product maker to shops, where customer can buy those products.
 
-In this transfer chain component is always holded by one acror. We can identify two type component holder change dependent of that, is component buyed to not, is ownership changed or not. Those actors have made categorised contracts how they behave with that component. We can iedntify assignment between component, actor and contract.
+In this transfer chain component is always holded by one actor. We can identify two type component holder change dependent of that, is component buyed to not, is ownership changed or not. Those actors have made categorized contracts how they behave with that component. We can identify assignment between component, actor and contract.
 
-If we look situation in the shop, customer can find out a product that consista of components and services. Even the shop selling assings a service to a product what it is selling and have nade promises how it works. Customer can find out products all components and services and get information od all vategorized contract made ot not made.
+If we look situation in the shop, customer can find out a product that consists of components and services. Even the shop selling assings a service to a product what it is selling and have made promises how it works. Customer can find out products all components and services and get information of all categorized contract made or not made.
 
-On selling phase customer can choose a produuct by a categorized contract and if product does not fullfil this contracts by some component or service, customer can see what is wrong with that product or simply get a list o other products that fullfill the contract wanted. We can find out that with this logic we have made a system, where customer can choose his/her values and put his/her money to talk how this world should act.
+On selling phase customer can choose a produuct by a categorized contract and if product does not fullfil this contracts by some component or service, customer can see what is wrong with that product or simply get a list of other products that fullfill the contract wanted. We can find out that with this logic we have made a system, where customer can choose his/her values and put his/her money to talk how this world should act.
 
 ### What this projects will sell?
 
-This projects product will be product sticker that includes a QR-code, which has identification information of a prodeucts. From that customer can check if a product fullfilss smart contracts he/she wants. Lokk car componts, cellular phone boxes aetc. All products have stickers, where are many kind is-information. This Categorized Contracts sticker is one more. With that sticker product makers can get get godwill for their products,  products, because they act responsible.
+This projects product will be product sticker that includes a QR-code, which has identification information of a prodeucts. From that customer can check if a product fullfilss smart contracts he/she wants. Look car componts, cellular phone boxes etc. All products have stickers, where are many kind id-information. This Categorized Contracts sticker is one more. With that sticker product makers can get get goodwill for their products, because they act responsible.
 
 ### Open Trade
 Because anyone can check the product or product batch that contains the QR code, trading will become open. We cannot assume that this idea will ever be used in all commerce, but it is possible that it will eventually become mainstream.
 
 ### Book Keeping
 #### Items identified
-We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and those roles we can build company, department of a company, product stat consists of componets, component, customer, group of customer, group of customer groups etc.
-##### Smart contract
+We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and those roles we can build company, department of a company, product stat consists of componets, component, customer, group of customer, group of customer groups etc. Categorys are are Items descripted below with a role 'Smart Contract' as highest level without owner. 'Smart Contract's are lowest level of this chain, concrete contracts.
+##### Smart Contract
+This is Item descripted below with a role 'Smart Contract'
+ 
+###### Item
+Itemt is iterative with roles, so item can be basic component that is a part of a product; component, that is not a part of a product yet; a product that contais components; company or department of company, customer or group of customers.
 * id
 * name
 * description
 * url
- 
-###### Item
-Itemt is iterative with roles, so item can be component be basic component that is a part of a product, component, that is not a part of a product yet, a product that contais components, company or department of company, customer or group of customers
-* id
-* name
-* description
 * role (company, department, component, product, customer, customer group
 * set of items that are assembled to this item, this can be also ownership, if role role is company, customer
 * which items this item is part of
@@ -56,17 +58,17 @@ Itemt is iterative with roles, so item can be component be basic component that 
 * id
 * date
 * transaction type (create, modify, delete )
-* Actor data
+* item
 
 ##### assign or deassign Item
 * id
 * date
 * actor, item with roles company (department), customer(customer group)
 * transaction type (assign or deassign)
-* item id
-* subiten item
-* holder item id
-* holder subitem id
+* item id, item that has this item as component, department etc.
+* subitem item id
+* holder item id, item that has physical control to this item
+* holder subitem id, item, that has been holded by holder
 
 ### Implementation
 #### Demo
