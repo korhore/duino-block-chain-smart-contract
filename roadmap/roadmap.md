@@ -33,41 +33,41 @@ Because anyone can check the product or product batch that contains the QR code,
 #### Items identified
 We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and those roles we can build company, department of a company, product stat consists of componets, component, customer, group of customer, group of customer groups etc.
 ##### Smart contract
-~ id
-~ name
-~ description
-~ url
+* id
+* name
+* description
+* url
  
 ###### Item
 Itemt is iterative with roles, so item can be component be basic component that is a part of a product, component, that is not a part of a product yet, a product that contais components, company or department of company, customer or group of customers
-~ id
-~ name
-~ description
-~ role (company, department, component, product, customer, customer group
-~ set of items that are assembled to this item, this can be also ownership, if role role is company, customer
-~ which items this item is part of
-~ set of items this item holds. Valid for company that sells services like transport. Transport can also be a component. Because ownership is not changed ith these kind operatoins, we need onother set than obove one. 
-~ which items this item is holded of
-~ holder who has physical control to this item now, valid for roles company, department
-~ set of smart contract this item fullfills (roles company, company) or what smart contract role customer wan't to be fullfilled.
+* id
+* name
+* description
+* role (company, department, component, product, customer, customer group
+* set of items that are assembled to this item, this can be also ownership, if role role is company, customer
+* which items this item is part of
+* set of items this item holds. Valid for company that sells services like transport. Transport can also be a component. Because ownership is not changed ith these kind operatoins, we need onother set than obove one. 
+* which items this item is holded of
+* holder who has physical control to this item now, valid for roles company, department
+* set of smart contract this item fullfills (roles company, company) or what smart contract role customer wan't to be fullfilled.
 
 
 #### Transactions identified
 ##### Create, modify delete Item
-~ id
-~ date
-~ transaction type (create, modify, delete )
-~ Actor data
+* id
+* date
+* transaction type (create, modify, delete )
+* Actor data
 
 ##### assign or deassign Item
-~ id
-~ date
-~ actor, item with roles company (department), customer(customer group)
-~ transaction type (assign or deassign)
-~ item id
-~ subiten item
-~ holder item id
-~ holder subitem id
+* id
+* date
+* actor, item with roles company (department), customer(customer group)
+* transaction type (assign or deassign)
+* item id
+* subiten item
+* holder item id
+* holder subitem id
 
 ### Implementation
 #### Demo
