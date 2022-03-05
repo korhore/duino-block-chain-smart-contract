@@ -43,7 +43,7 @@ We can find out, that all items can have same structure and only it's role diffe
 ##### Smart Contract
 This is Item descripted below with a role 'Smart Contract'
  
-###### Item
+##### Item
 Itemt is iterative with roles, so item can be basic component that is a part of a product; component, that is not a part of a product yet; a product that contais components; company or department of company, customer or group of customers; category or smart contract under a category.
 * id
 * name
