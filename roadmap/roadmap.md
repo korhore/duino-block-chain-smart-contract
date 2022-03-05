@@ -5,11 +5,10 @@ Inspiration to innovate [Duino-Coin](https://github.com/revoxhere/duino-coin) -b
 Also with components have just same smart contract history data available of sellers and buyers if they fullfill category rules or not, so real controll to real data of how products are made can be available as component level. Even if component is dismanted from one old product and sold to someone, who installs that component to his/her product, new one or old one, also that components history can be found, when component is sold with it's NFT. So business possibities for this kind NFT-usage seems to be very promising if you are going to save the world or even if your are not going to do it.
  
 ## Steps
-### Block-Chain
 ### Categosized Smart Contracts
 Basic idea is based on Categirized Contracts
 #### Category
-Category for a component can be based on conditions with a component has build, traded or owned. One example is Russia ban. This category may be defined for instance so, that componen has not beem nade is Russia, not a company that is owned by any people that are citizens by Russia directly or indirectly, phopin use of bullvans. Example of conditions contract may be, that conditions of the workers fullfill some category difined for instance [ILO C029 - Forced Labour Convention, 1930 (No. 29)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C029). Very popular cateryry is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
+Category for a component can be based on conditions with a component has build, traded or owned. One example is Russia ban [Russia sanctions list: What the west imposed over the Ukraine invasion](https://www.ft.com/content/6f3ce193-ab7d-4449-ac1b-751d49b1aaf8) . This category may be defined for instance so, that component has not been made is Russia, not a company that is owned by any people that are citizens by Russia directly or indirectly, phopin use of bullvans. Example of conditions contract may be, that conditions of the workers fullfill some category difined for instance [ILO C029 - Forced Labour Convention, 1930 (No. 29)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C029). Very popular cateryry is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
 
 One caterogory will be of how deep level information of smart contracts of products producing phases and components customer can get, is it only producers announcement or does it go higher to the deepest level, where same contracts information can be got also for all services and subcomponents that are used in the product. If implementaion is made so, that customers can confirm or deny reltionship of product and category we can implement reliability.
 
@@ -121,9 +120,9 @@ Currency can be for istance bitcoin, dollar, but no DUCO.
 
 ### Smart Contract
 #### Study Smart Contracts
-How to deploy smart contract? Youcan use ethereum as example, but ethereus is not cheap main think to study is we can lof with Duino, how we deploy smart contyracts with Duino?
+How to deploy smart contract? You can use ethereum as example, but ethereum is not cheap main think to study is we can lof with Duino, how we deploy smart contyracts with Duino?
 
 ### GPL
 #### Study GPL
- Study GPL as a purpose to define Smart Contract same kind as GPL so, that contract maker promises publish all components  he/her has used as a list with Smart Contract -information needed for each. Note that product itself will bot be under GPL, but we only study GPL what way, that in programs business if we use GPL at code level, whic means that we can freely use GPL in our code, nut after doing so, we must also publish all code we have written to make application under GPL. Logic with items fullfilling smarft agreement will be that kind, that if one subitem will not fullfill a smart contract, then main product will not fullfill also, even if some other subitems will fullfill the smart contract.
+Study GPL as a purpose to define Smart Contract same kind as GPL so, that contract maker promises publish all components  he/her has used as a list with Smart Contract -information needed for each. Note that product itself will bot be under GPL, but we only study GPL what way, that in programs business if we use GPL at code level, whic means that we can freely use GPL in our code, nut after doing so, we must also publish all code we have written to make application under GPL. Logic with items fullfilling smarft agreement will be that kind, that if one subitem will not fullfill a smart contract, then main product will not fullfill also, even if some other subitems will fullfill the smart contract.
 
