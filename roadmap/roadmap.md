@@ -39,23 +39,31 @@ Because anyone can check the product or product batch that contains the QR code,
 
 ### Book Keeping
 #### Items identified
-We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and with those roles we can build company, department of a company, product shat consists of components, component, customer, group of customer, group of customer groups etc. Categorys are are Items descripted below with a role 'Smart Contract' as highest level without owner. 'Smart Contract's are lowest level of this chain, concrete contracts.
+We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and with those roles we can build company, department of a company, product shat consists of components, component, customer, group of customers, group of customer groups etc. Categorys are are Items descripted below with a role 'Smart Contract' as highest level without owner. 'Smart Contract's are lowest level of this chain, concrete contracts.
 ##### Smart Contract
 This is Item descripted below with a role 'Smart Contract'
- 
+
+##### Assignment
+Link between 2 Items whith features. For instance is link is between a component and smart contract, this will include True or False indicator and also link to crteator. This neans that this creator has identifies if this compunents fullfills smart contract rules or not.
+* id
+* date
+* item id
+* oteherIitem id
+* creator id
+* isTrue
 ##### Item
 Itemt is iterative with roles, so item can be basic component that is a part of a product; component, that is not a part of a product yet; a product that contais components; company or department of company, customer or group of customers; category or smart contract under a category.
 * id
+* date
 * name
 * description
 * url
-* role (company, department, component, product, customer, customer group
-* set of items that are assembled to this item, this can be also ownership, if role role is company, customer
-* which items this item is part of
-* set of items this item holds. Valid for company that sells services like transport. Transport can also be a component. Because ownership is not changed ith these kind operatoins, we need onother set than obove one. 
-* which items this item is holded of
-* holder who has physical control to this item now, valid for roles company, department
-* set of smart contract this item fullfills (roles company, company) or what smart contract role customer wan't to be fullfilled.
+* role (company, department, component, product, customer, customer group, smart contract)
+* set of assigned items that are assembled to this item, this can be also ownership, if role role is company, customer
+* set of assigned items which this item is part of
+* set of assigned items this item holds. Valid for company that sells services like transport. Transport can also be a component. Because ownership is not changed ith these kind operatoins, we need onother set than obove one. 
+* set of assigned items which this item is holded of
+* set of assignef smart contract this item fullfills or does not fullfill (roles company, department) or what smart contract role customer wan't to be fullfilled (roles customer, group of customers).
 
 
 #### Transactions identified
@@ -66,14 +74,18 @@ Itemt is iterative with roles, so item can be basic component that is a part of 
 * item
 
 ##### assign or deassign Item
+Some deassings are reasonable, but some are not, depending on Itrm roles. This need a study.
+
 * id
 * date
-* actor, item with roles company (department), customer(customer group)
-* transaction type (assign or deassign)
-* item id, item that has this item as component, department etc.
-* subitem item id
-* holder item id, item that has physical control to this item
-* holder subitem id, item, that has been holded by holder
+* actor, who makes thos assignemt, item with roles company (department), customer(customer group)
+* assign or deassign
+* assignement type(part to, part of, holded to, holded of, smart contract)
+* item to be assigned/deassigned
+* otherItem to be assigned/deassigned
+* item id,
+* otherItem id
+* True/False is this assignment True. 
 
 ### Implementation
 #### Demo
