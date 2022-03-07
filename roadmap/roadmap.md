@@ -16,7 +16,7 @@ Example of conditions contract may be, that conditions of the workers fullfill s
 
 Very popular category is nowdays climate carbon neutral, for instance for [Design Buildings](https://www.designingbuildings.co.uk/wiki/Carbon_neutral_contract). This contract is easy to be extended to any area of the business products.
 
-One category will be of how deep level information of smart contracts of products producing phases and components customer can get, is it only producers announcement or does it go higher to the deepest level, where same contracts information can be got also for all services and subcomponents that are used in the product. If implementaion is made so, that customers can confirm or deny reltionship of product and category we can implement reliability.
+One category will be of how deep level information of smart contracts of products producing phases and components customer can get, is it only producers announcement or does it go higher to the deepest level, where same contracts information can be got also for all services and subcomponents that are used in the product. If implementaion is made so, that customers can confirm or deny relationship of product and category we can implement reliability.
 
 #### Categorized Contract
 Categorized Contract is concrete contract under it's category. Examples of Categorized Contract can be above examples, they are examples of both 'Category' and  'Categorized Contracts'.
@@ -43,16 +43,16 @@ We can find out, that all items can have same structure and only it's role diffe
 ##### Smart Contract
 This is Item descripted below with a role 'Smart Contract'
 
-##### Assignment
+##### Assignment/Association
 Link between 2 Items whith features. For instance is link is between a component and smart contract, this will include True or False indicator and also link to crteator. This neans that this creator has identifies if this compunents fullfills smart contract rules or not.
 * id
 * date
 * item id
-* oteherIitem id
+* otherItem id
 * creator id
 * isTrue
 ##### Item
-Itemt is iterative with roles, so item can be basic component that is a part of a product; component, that is not a part of a product yet; a product that contais components; company or department of company, customer or group of customers; category or smart contract under a category.
+Item is iterative with roles, so item can be basic component that is a part of a product; component, that is not a part of a product yet; a product that contais components; company or department of company, customer or group of customers; category or smart contract under a category.
 * id
 * date
 * name
@@ -63,7 +63,7 @@ Itemt is iterative with roles, so item can be basic component that is a part of 
 * set of assigned items which this item is part of
 * set of assigned items this item holds. Valid for company that sells services like transport. Transport can also be a component. Because ownership is not changed ith these kind operatoins, we need onother set than obove one. 
 * set of assigned items which this item is holded of
-* set of assignef smart contract this item fullfills or does not fullfill (roles company, department) or what smart contract role customer wan't to be fullfilled (roles customer, group of customers).
+* set of assigned smart contract this item fullfills or does not fullfill (roles company, department) or what smart contract role customer wan't to be fullfilled (roles customer, group of customers).
 
 
 #### Transactions identified
