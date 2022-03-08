@@ -37,6 +37,8 @@ This project's product will be product sticker that includes a QR-code, which ha
 ### Open Trade
 Because anyone can check the product or product batch that contains the QR code, trading will become open. We cannot assume that this idea will ever be used in all commerce, but it is possible that it will eventually become mainstream.
 
+### Distributed Architecture
+Plan is make this app to work also if users in the internet don't get connection to each other any moe freely, but it is restricted. We use distributed architecture, meaning that data is divaded in all devices and all devices can connect each other to get data from others. To get started we use one named server, that will hold data of known categies, smart contracts, products, etc. and also devices that real users use with this application. Device information is simple, so it is not needed to get this information from basic named server, but can be shatred other ways too, so this systerm can run also in the closed island of the internet.
 ### Book Keeping
 #### Items identified
 We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and with those roles we can build company, department of a company, product shat consists of components, component, customer, group of customers, group of customer groups etc. Categorys are are Items descripted below with a role 'Smart Contract' as highest level without owner. 'Smart Contract's are lowest level of this chain, concrete contracts.
