@@ -43,7 +43,9 @@ Plan is make this app to work also if users in the internet don't get connection
 #### Items identified
 We can find out, that all items can have same structure and only it's role differs. Role can be actor or component and with those roles we can build company, department of a company, product shat consists of components, component, customer, group of customers, group of customer groups etc. Categorys are are Items descripted below with a role 'Smart Contract' as highest level without owner. 'Smart Contract's are lowest level of this chain, concrete contracts.
 ##### Smart Contract
-This is Item descripted below with a role 'Smart Contract'
+This is an Item descripted below with a role 'Smart Contract'
+##### Device
+This is an Item descripted below with a role 'Device'. No other device in collected or saved, than neede fo cennections. We need only IP-addresses. There can be volunteer servers and customer devices, so we ,ust study, if we ass parameters 'pewrmanent' as opposite of smart phone, which IP changes very often.
 
 ##### Assignment/Association
 Link between 2 Items whith features. For instance is link is between a component and smart contract, this will include True or False indicator and also link to crteator. This neans that this creator has identifies if this compunents fullfills smart contract rules or not.
@@ -60,7 +62,7 @@ Item is iterative with roles, so item can be basic component that is a part of a
 * name
 * description
 * url
-* role (company, department, component, product, customer, customer group, smart contract)
+* role (company, department, component, product, customer, customer group, smart contract, device)
 * set of assigned items that are assembled to this item, this can be also ownership, if role role is company, customer
 * set of assigned items which this item is part of
 * set of assigned items this item holds. Valid for company that sells services like transport. Transport can also be a component. Because ownership is not changed ith these kind operatoins, we need onother set than obove one. 
